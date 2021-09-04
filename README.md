@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Şevval
 
-I'm from Turkey. I am a computer engineering student. I am trying to improve myself in the field of web design.
+I'm from Turkey. I am a Computer Engineering student. I am trying to improve myself in the field of web design.
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript 
 
