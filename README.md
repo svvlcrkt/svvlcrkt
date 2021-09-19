@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Şevval
+### Hi there 👋, my name is Sevval
 
 I'm from Turkey. I am a Computer Engineering student. I am trying to improve myself in the field of web programming.
 
