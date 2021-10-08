@@ -2,7 +2,7 @@
 
 *I'm from Turkey. I am a Computer Engineering student at Bahcesehir University. I am trying to improve myself in the field of web programming.*
 
-- 🌱 *I’m currently learning HTML, CSS, JavaScript and React*
+- 🌱 *I’m currently learning <b>HTML, CSS, JavaScript and React</b>*
 - 📫 *How to reach me: **svvlozlem.carkit@gmail.com***
 
 *<h3 align="left">Languages and Tools:</h3>*
