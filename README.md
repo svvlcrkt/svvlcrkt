@@ -7,7 +7,7 @@
 
 ## &#x270d; *Blog & Writing*
 
-*Apart from coding, I also maintain a blog - you can find my articles on my Medium account: [svvlozlem-carkit.medium.com](https://svvlozlem-carkit.medium.com/)*
+*Apart from coding, I also maintain a blog - you can find my articles on my Medium account: <b>[svvlozlem-carkit.medium.com]</b>(https://svvlozlem-carkit.medium.com/)*
 
 *<h3 align="left">Languages and Tools</h3>*
 
