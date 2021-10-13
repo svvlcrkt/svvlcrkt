@@ -1,4 +1,4 @@
-### *Hi there 👋, my name is Sevval*
+### *Hi there <img src="![wave](https://user-images.githubusercontent.com/63058707/137196422-ad8bb065-e1d5-418b-8c90-e5181cc89f8b.gif)" width="30px">, my name is Sevval*
 
 *I'm from Turkey. I am a Computer Engineering student at Bahcesehir University. I am trying to improve myself in the field of web programming.*
 
