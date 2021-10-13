@@ -16,6 +16,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
   
+  <a href="https://github.com/svvlcrkt/svvlcrkt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svvlcrkt&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svvlcrkt)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=svvlcrkt&show_icons=true)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=svvlcrkt) 
