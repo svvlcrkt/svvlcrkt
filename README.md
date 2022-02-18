@@ -17,6 +17,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=svvlcrkt&show_icons=true&theme=dark&locale=en" alt="svvlcrkt" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svvlcrkt&theme=dark" alt="svvlcrkt" /></p>
+
+<p align="left">
+<a href="https://medium.com/svvlozlem-carkit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="svvlozlem-carkit" height="30" width="40" /></a>
+</p>
   
 
   
