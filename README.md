@@ -1,6 +1,6 @@
 # *Hi there, my name is Sevval!*
 
-*I'm from Turkey. I am a 3rd year Computer Engineering student at Bahcesehir University. I am trying to improve myself in the field of web and mobile programming.*
+*I'm from Turkey. I am a 3rd year Computer Engineering student at Bahcesehir University. I am trying to improve myself in the field of web programming and data science.*
 
 - 🌱 *I’m currently learning <b>HTML, CSS, JavaScript, jQuery </b> and <b>PostgreSQL</b>.*
 - 📫 *How to reach me: **svvlozlem.carkit@gmail.com***
