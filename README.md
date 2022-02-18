@@ -2,12 +2,12 @@
 **<i><h3 align="center">A data scientist enthusiast from Turkey</h3></i>**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=svvlcrkt&label=Profile%20views&color=9dd558&style=flat" alt="svvlcrkt" /> </p>
-<i>
-- 🌱 I’m currently learning **PostgreSQL, Oracle SQL**
 
-- 📝 I regularly write articles on **[https://svvlozlem-carkit.medium.com/](https://svvlozlem-carkit.medium.com/)** 
+<i> - 🌱 I’m currently learning **PostgreSQL, Oracle SQL**</i>
 
-- 📫 How to reach me: **svvlozlem.carkit@gmail.com**</i>
+<i> - 📝 I regularly write articles on **[https://svvlozlem-carkit.medium.com/](https://svvlozlem-carkit.medium.com/)** </i> 
+
+<i> - 📫 How to reach me: **svvlozlem.carkit@gmail.com**</i>
 
 
 <h3 align="left">Languages and Tools:</h3>
