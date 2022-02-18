@@ -19,7 +19,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svvlcrkt&theme=dark" alt="svvlcrkt" /></p>
 
 <p align="left">
-<a href="https://medium.com/svvlozlem-carkit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="svvlozlem-carkit" height="30" width="40" /></a>
+<a href="https://medium.com/@svvlozlem-carkit.medium.com/data-warehouse-veri%cc%87-ambari-nedi%cc%87r-57d71f035814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@svvlozlem-carkit.medium.com/data-warehouse-veri%cc%87-ambari-nedi%cc%87r-57d71f035814" height="30" width="40" /></a>
 </p>
   
 
