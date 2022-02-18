@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL, Oracle SQL**
 
-- 📝 I regularly write articles on **[https://svvlozlem-carkit.medium.com/]**(https://svvlozlem-carkit.medium.com/)
+- 📝 I regularly write articles on **[https://svvlozlem-carkit.medium.com/](https://svvlozlem-carkit.medium.com/)**
 
 - 📫 How to reach me: **svvlozlem.carkit@gmail.com**
 
