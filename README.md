@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=svvlcrkt&label=Profile%20views&color=9dd558&style=flat" alt="svvlcrkt" /> </p>
 
-<i align="center" > - 🌱 I’m currently learning **PostgreSQL, Oracle SQL**</i>
+<i> - 🌱 I’m currently learning **PostgreSQL, Oracle SQL**</i>
 
 <i> - 📝 I regularly write articles on **[https://svvlozlem-carkit.medium.com/](https://svvlozlem-carkit.medium.com/)** </i> 
 
