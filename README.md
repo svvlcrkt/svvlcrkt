@@ -1,7 +1,7 @@
  **<i><h1 align="center">Hi 👋, I'm Sevval. I am a 3rd year Computer Engineering student at Bahcesehir University</h1></i>**
 **<i><h3 align="center">A data science enthusiast from Turkey</h3></i>**
 
-<i> - 🌱 I’m currently learning **PostgreSQL, Oracle SQL**</i>
+<i> - 🌱 I’m currently learning **PostgreSQL, Oracle SQL, Python**</i>
 
 <i> - 📝 I regularly write articles on **[https://svvlozlem-carkit.medium.com/](https://svvlozlem-carkit.medium.com/)** </i> 
 
