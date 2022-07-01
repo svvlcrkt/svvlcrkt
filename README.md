@@ -2,7 +2,7 @@
 **<i><h3 align="center">Data science enthusiast from Turkey</h3></i>**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=svvlcrkt&label=Profile%20views&color=0e75b6&style=flat" alt="svvlcrkt" /> </p>
 
-<i> - 🌱 I’m currently learning **Arduino, Python, Java**</i>
+<i> - 🌱 I’m currently learning **Arduino, Python & Java**</i>
 
 <i> - 📝 I regularly write articles on **[https://svvlozlem-carkit.medium.com/](https://svvlozlem-carkit.medium.com/)** </i> 
 
