@@ -1,4 +1,4 @@
-**<i><h1 align="center">Hi 👋, I'm Sevval. I am a 4th year Computer Engineering student at Bahcesehir University</h1></i>**
+**<i><h1 align="center">Hi 👋, I'm Sevval. I am a 4th year Computer Engineering student at Bahçeşehir University</h1></i>**
 **<i><h3 align="center">Data science & AI enthusiast from Turkey</h3></i>**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=svvlcrkt&label=Profile%20views&color=0e75b6&style=flat" alt="svvlcrkt" /> </p>
 
