@@ -1,8 +1,8 @@
-**<i><h1 align="center">Hi 👋, I'm Şevval. I am a fresh graduated Computer Engineer at Bahçeşehir University</h1></i>**
+**<i><h1 align="center">Hi 👋, I'm Sevval. I am a Jr Data Engineer</h1></i>**
 **<i><h3 align="center">Data science & AI enthusiast from Turkey</h3></i>**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=svvlcrkt&label=Profile%20views&color=0e75b6&style=flat" alt="svvlcrkt" /> </p>
 
-<i> - 🌱 I’m currently learning **SQL, Python & Java**</i>
+<i> - 🌱 I’m currently learning **SQL, PL/SQL and Python**</i>
 
 <i> - 📝 I regularly write articles on **[https://svvlozlem-carkit.medium.com/](https://svvlozlem-carkit.medium.com/)** </i> 
 
